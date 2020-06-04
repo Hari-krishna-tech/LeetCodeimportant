@@ -21,5 +21,5 @@
 * [How to approach DP problems by @heroes3001](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems)
 * [A general approach to backtracking questions by @issac3](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
 * [Top 75 Leetcode questions for interview preparation curated by Blind](https://leetcode.com/list/xi4ci4ig/)
-* [Topic wise problems for beginners by @yashrsharma44](https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
-Happy coding!)
+* [Topic wise problems for beginners by @yashrsharma44](https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners)
+#Happy coding!
