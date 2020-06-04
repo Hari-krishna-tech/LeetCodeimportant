@@ -1,7 +1,7 @@
 # LeetCodeimportant
 
 
-* [DP for beginners by @wh0ami](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
+*[] [DP for beginners by @wh0ami](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
   * [LIST](https://leetcode.com/list/x1k8lxi5)
 * [Graph for beginners by @wh0ami] (https://leetcode.com/discuss/general-discussion/655708/graph-for-beginners-problems-pattern-sample-solutions/562734)
   * [LIST](https://leetcode.com/list/x1wy4de7)
